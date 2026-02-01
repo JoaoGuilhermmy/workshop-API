@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Workshop Spring Boot 4 - Sistema E-commerce Completo
+# 🚀 Workshop API 
 
 ### _Plataforma Empresarial de Gestão de Pedidos com Arquitetura Avançada_
 
